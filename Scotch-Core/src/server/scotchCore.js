@@ -1,0 +1,3 @@
+﻿/* Setup namespace */
+var scotch = {};
+

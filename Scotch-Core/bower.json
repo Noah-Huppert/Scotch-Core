@@ -1,0 +1,19 @@
+{
+  "name": "Scotch-Core",
+  "version": "0.0.1",
+  "authors": [
+    "Noah Huppert"
+  ],
+  "description": "Scotch is a NodeJS website framework created by Noah Huppert",
+  "main": "scotchCore.js",
+  "keywords": [
+    "scotch",
+    "scotch-core",
+    "nodejs",
+    "website",
+    "framework",
+    "handlebars"
+  ],
+  "license": "MIT",
+  "homepage": "http://noahhuppert.com"
+}
