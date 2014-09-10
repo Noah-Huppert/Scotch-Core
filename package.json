@@ -1,7 +1,7 @@
 {
   "name": "Scotch-Core",
   "version": "0.0.1",
-  "description": "Scotch is a NodeJS website framework created by Noah Huppert",
+  "description": "A simple NodeJS website framework",
   "main": "src/server/scotchCore.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
