@@ -8,10 +8,10 @@ scotch.build.exports = function (grunt) {
     grunt.initConfig({
         jsdoc : {
             dist : {
-                src: ["src/*.js", "test/*.js"], 
+                src: ["*.js"], 
                 options: {
                     destination: "documentation",
-                    template: "Amelia"
+                    theme: "amelia"
                 }
             }
         }

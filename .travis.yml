@@ -1,4 +1,7 @@
 ﻿language: node_js
 node_js:
   - "0.10"
-before_script: grunt genDocs
+before_script: 
+ - npm install
+ - grunt genDocs
+script: npm test
