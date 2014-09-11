@@ -1,0 +1,7 @@
+﻿language: node_js
+node_js:
+  - "0.10"
+before_script: 
+ - npm install
+ - npm docs
+script: npm test
