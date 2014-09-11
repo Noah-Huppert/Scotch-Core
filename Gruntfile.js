@@ -19,7 +19,7 @@ scotch.build.exports = function (grunt) {
 
     grunt.loadNpmTasks("grunt-jsdoc");
 
-    grunt.registerTask("docs", "jsdoc");
+    grunt.registerTask("genDocs", "jsdoc");
 };
 
 module.exports = scotch.build.exports;

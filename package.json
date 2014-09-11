@@ -4,8 +4,7 @@
   "description": "A simple NodeJS website framework",
   "main": "src/server/scotchCore.js",
   "scripts": {
-    "test": "vows test/* --spec",
-    "docs": "grunt docs"
+    "test": "vows test/* --spec"
   },
   "repository": {
     "type": "git",
